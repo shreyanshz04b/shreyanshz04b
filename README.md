@@ -20,10 +20,10 @@
 
 ```bash
 > USER: shreyanshz04b
-> ROLE: Tech Entrepreneur
+> ROLE: Designer, Developer,Seo Specialist, Student 
 > EDUCATION: BCA MCA @ GLA University
 > STATUS: Online & Building 
-> FOCUS: Innovation | Business | Web Systems
+> FOCUS: Innovation | Business | Web Systems | Cyber Security
 ```
 
 ---
