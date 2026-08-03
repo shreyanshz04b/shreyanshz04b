@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=Hi+I'm+Shreyansh+Agarwal;Entrepreneur+%7C+Developer+%7C+Strategist;Building+Digital+Empires+%F0%9F%9A%80;Code.+Create.+Conquer." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=Hi+I'm+Shreyansh+Agarwal;Entrepreneur+%7C+Developer+%7C+Strategist;Building+Digital+Empires;Code.+Create.+Conquer." />
 </p>
 
 <!-- YOUR CUSTOM IMAGE HERE -->
