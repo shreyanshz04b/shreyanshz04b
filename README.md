@@ -32,7 +32,7 @@
 
 As a passionate entrepreneur and business enthusiast,  
 I'm constantly seeking opportunities to leverage technology for growth and impact.  
-Currently pursuing my Bachelor of Computer Applications (BCA),  
+Currently pursuing my Masters of Computer Applications (MCA),  
 I'm excited to apply my skills and knowledge to real-world problems.
 
 ---
@@ -42,7 +42,10 @@ I'm excited to apply my skills and knowledge to real-world problems.
 -  Entrepreneurship and startup ecosystem  
 -  Business development and strategy  
 -  Technology and innovation  
--   Web development  
+-   Web development
+-   AI Automations
+- Wordpress Development
+- Seo Strategy 
 
 ---
 
