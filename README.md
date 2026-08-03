@@ -54,14 +54,14 @@ I'm excited to apply my skills and knowledge to real-world problems.
 <p align="center">
 
 [![Behance](https://img.shields.io/badge/Behance-00FF41?style=for-the-badge&logo=behance&logoColor=black)](https://behance.net/shreyanagarwal12)
-[![Facebook](https://img.shields.io/badge/Facebook-00FF41?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com/@shreyansh04b)
+[![Facebook](https://img.shields.io/badge/Facebook-00FF41?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com/@shreyanshagarwalofficial)
 [![Instagram](https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/@shreyanshagarwalofficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/bjp4shreyansh04b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/shreyanshagarwalceo)
 [![Medium](https://img.shields.io/badge/Medium-00FF41?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@shreyansh.agarwal9999)
 [![Pinterest](https://img.shields.io/badge/Pinterest-00FF41?style=for-the-badge&logo=pinterest&logoColor=black)](https://pinterest.com/@shreyanshagarwalofficial)
 [![Quora](https://img.shields.io/badge/Quora-00FF41?style=for-the-badge&logo=quora&logoColor=black)](https://quora.com/profile/Shreyansh-Agarwal-163)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-00FF41?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/27209418)
-[![X](https://img.shields.io/badge/X-00FF41?style=for-the-badge&logo=x&logoColor=black)](https://x.com/ishreyanshag)
+[![X](https://img.shields.io/badge/X-00FF41?style=for-the-badge&logo=x&logoColor=black)](https://x.com/ShreyanshAg_in)
 
 </p>
 
