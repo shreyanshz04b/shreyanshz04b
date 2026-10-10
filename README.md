@@ -4,6 +4,7 @@
 </p>
 <img src="assets/about-life.svg?v=1" alt="Professional capabilities and personal interests including chess, drawing, psychology, and the cosmos" width="100%">
 <img src="assets/stack.svg?v=1" alt="Technical stack arranged around restrained orbital paths, with languages, frontend, backend, AI, databases, and automation tools" width="100%">
+<img src="assets/multi.svg?v=1" alt="Technical stack arranged around restrained orbital paths, with languages, frontend, backend, AI, databases, and automation tools" width="100%">
 <img src="assets/id-dashboard.svg?v=1" alt="Animated Shreyansh Agarwal official personal profile badge with a woven lanyard, metal clasp, portrait, name, and specialization" width="100%">
 <img src="assets/connect.svg?v=1" alt="Portrait of Shreyansh Agarwal Official pointing toward his professional and social profile destinations" width="100%">
 **Profiles & destinations**
