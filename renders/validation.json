@@ -1,0 +1,55 @@
+{
+  "svg_xml": "PASS",
+  "duplicate_ids": "PASS",
+  "portrait_png_byte_preservation": "PASS",
+  "pointing_png_byte_preservation": "PASS",
+  "svg_external_network_references": "PASS",
+  "svg_sizes_under_1MB": "FAIL \u2014 source PNG byte-preservation and inline self-contained SVG requirements conflict with the 1 MB limit",
+  "package_under_4MB": "FAIL \u2014 supplied original PNGs are embedded in self-contained SVGs, as required",
+  "total_svg_bytes": 6644744,
+  "total_package_bytes_before_zip": 8701269,
+  "original_portrait_bytes": 1849967,
+  "original_pointing_bytes": 1150625,
+  "original_logo_bytes": 1341692,
+  "font_css_embedded": true,
+  "font_files": [
+    "inter-display-subset.woff2",
+    "go-mono-subset.woff2"
+  ],
+  "svg_checks": [
+    {
+      "file": "hero.svg",
+      "xml": "PASS",
+      "duplicate_ids": [],
+      "bytes": 2499849
+    },
+    {
+      "file": "about-life.svg",
+      "xml": "PASS",
+      "duplicate_ids": [],
+      "bytes": 35575
+    },
+    {
+      "file": "stack.svg",
+      "xml": "PASS",
+      "duplicate_ids": [],
+      "bytes": 34425
+    },
+    {
+      "file": "id-dashboard.svg",
+      "xml": "PASS",
+      "duplicate_ids": [],
+      "bytes": 2500904
+    },
+    {
+      "file": "connect.svg",
+      "xml": "PASS",
+      "duplicate_ids": [],
+      "bytes": 1573514
+    }
+  ],
+  "project_repository_links": "Omitted where not supplied",
+  "timed_animation_rendering": "NOT RUN \u2014 contact sheet is a static fallback render, not a time-indexed animation capture",
+  "static_render": "PASS \u2014 contact sheet regenerated after fixes",
+  "static_role_fallback": "PASS \u2014 WordPress Developer is visible when animation is unsupported; other roles begin hidden"
+}
