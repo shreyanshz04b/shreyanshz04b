@@ -40,6 +40,4 @@ I combine technical problem-solving with AI tools, WordPress, SEO, and digital m
 **Based in:** Agra, Uttar Pradesh, India  
 **Focus:** Backend development · AI and RAG · Database engineering · Workflow automation · SEO and digital marketing
 
----
-
-*Motion is decorative. If an SVG renderer disables animation, each graphic retains a readable base layout. Social links are placed in Markdown because links inside SVGs are not reliably clickable when rendered as GitHub README images.*
+-
