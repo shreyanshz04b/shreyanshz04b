@@ -36,5 +36,3 @@ SVG image contents are not clickable on GitHub, so the real links are listed her
 - [X](https://x.com/ShreyanshAg_in)
 
 YouTube and Topmate links were not supplied and are intentionally omitted.
-
-> Statistics are omitted until verified values and dates are available. The dashboard does not fabricate contribution counts.
