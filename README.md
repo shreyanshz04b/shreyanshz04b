@@ -9,7 +9,8 @@
 <img src="assets/connect.svg?v=1" alt="Portrait of Shreyansh Agarwal Official pointing toward his professional and social profile destinations" width="100%">
 **Profiles & destinations**
 
-[GitHub](https://github.com/shreyanshz04b) · [LinkedIn](https://www.linkedin.com/in/shreyanshagarwalceo/) · [Instagram](https://instagram.com/shreyanshagarwaloffical) · [Portfolio](https://shreyanshportfolio.in/) · [X](https://x.com/ShreyanshAg_in) · [Medium](https://medium.com/@shreyanshagarwalofficial) · [Behance](https://www.behance.net/shreyansh-agarwal) · [Stack Overflow](https://stackoverflow.com/users/27209418) · [Quora](https://quora.com/profile/Shreyansh-Agarwal-163) · [Pinterest](https://in.pinterest.com/shreyanshagarwalofficial/) · [Facebook](https://facebook.com/@shreyanshagarwalofficial) · [Code Pen](https://codepen.io/ShreyanshAgarwalOfficial) · [Git Lab](https://gitlab.com/shreyanshagarwalofficial) [Hacker Rank](https://www.hackerrank.com/profile/agarwalshreyansh) [Leetcode](https://leetcode.com/u/shreyanshagarwal/) 
+[GitHub](https://github.com/shreyanshz04b) · [LinkedIn](https://www.linkedin.com/in/shreyanshagarwalceo/) · [Instagram](https://instagram.com/shreyanshagarwaloffical) · [Portfolio](https://shreyanshportfolio.in/) · [X](https://x.com/ShreyanshAg_in) · [Medium](https://medium.com/@shreyanshagarwalofficial) · [Behance](https://www.behance.net/shreyansh-agarwal) · [Stack Overflow](https://stackoverflow.com/users/27209418) · [Quora](https://quora.com/profile/Shreyansh-Agarwal-163) · [Pinterest](https://in.pinterest.com/shreyanshagarwalofficial/) · [Facebook](https://facebook.com/@shreyanshagarwalofficial) · [Code Pen](https://codepen.io/ShreyanshAgarwalOfficial) · [Git Lab](https://gitlab.com/shreyanshagarwalofficial) [Hacker Rank](https://www.hackerrank.com/profile/agarwalshreyansh) [Leetcode](https://leetcode.com/u/shreyanshagarwal/)
+[Vimeo](https://vimeo.com/shreyanshagarwalofficial)
 
 ## Selected projects
 
