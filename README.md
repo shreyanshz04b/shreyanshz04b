@@ -11,7 +11,7 @@
 
 [GitHub](https://github.com/shreyanshagarwalofficial) · [LinkedIn](https://www.linkedin.com/in/shreyanshagarwalofficial/) · [Instagram](https://instagram.com/shreyanshagarwaloffical) · [Portfolio](https://shreyanshportfolio.in/) · [X](https://x.com/ShreyanshAg_in) · [Medium](https://medium.com/@shreyanshagarwalofficial) · [Behance](https://www.behance.net/shreyansh-agarwal) · [Stack Overflow](https://stackoverflow.com/users/27209418) · [Quora](https://quora.com/profile/Shreyansh-Agarwal-163) · [Pinterest](https://in.pinterest.com/shreyanshagarwalofficial/) · [Facebook](https://facebook.com/@shreyanshagarwalofficial) · [Code Pen](https://codepen.io/ShreyanshAgarwalOfficial) · [Git Lab](https://gitlab.com/shreyanshagarwalofficial) [Hacker Rank](https://www.hackerrank.com/profile/agarwalshreyansh) [Leetcode](https://leetcode.com/u/shreyanshagarwal/)
 [Vimeo](https://vimeo.com/shreyanshagarwalofficial) [Gravtar](https://gravatar.com/shreyanshagarwalofficialindia) [Dev to](https://dev.to/shreyanshagarwal) [Substack](https://substack.com/@shreyanshagarwalofficial)
-[Hackernoon](https://hackernoon.com/u/shreyanshagarwal) [GeeksForGeeks](https://www.geeksforgeeks.org/profile/shreyanshagarwalofficial) [HasNode](https://hashnode.com/@shreyansh-agarwal) 
+[Hackernoon](https://hackernoon.com/u/shreyanshagarwal) [GeeksForGeeks](https://www.geeksforgeeks.org/profile/shreyanshagarwalofficial) [HasNode](https://hashnode.com/@shreyansh-agarwal) [WikiData](https://www.wikidata.org/wiki/User:Shreyansh_Agarwal_Official) 
 ## Selected projects
 
 | Project | Description | Technologies | Repository / Website |
